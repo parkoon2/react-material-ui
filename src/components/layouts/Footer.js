@@ -1,5 +1,5 @@
 import React from 'react'
 
 export default props => <div>
-    Footer
+    <h1>Footer</h1>
 </div>

@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import Header from './layouts/Header'
-import Footer from './layouts/Footer'
+import { Footer, Header } from './layouts'
 
 class App extends Component {
   render() {
