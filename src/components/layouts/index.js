@@ -1,5 +1,5 @@
 import Header from './Header'
-import Footer from './Header'
+import Footer from './Footer'
 
 export {
     Header,
